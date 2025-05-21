@@ -7,3 +7,9 @@ Edited the index.md with a title
 ```Java
 String name = "LK";
 ```
+
+# The following is a task list
+- [X] Start learning github
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
